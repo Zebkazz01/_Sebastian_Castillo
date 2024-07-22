@@ -14,9 +14,10 @@
 </a>
 <a href="https://instagram.com/zebkazz" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a><br>  
-### ¡Me alegro de verte aquí!
-Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando con el desarrollo web. Mi dominio de HTML, CSS y JavaScript me ha permitido crear interfaces visuales atractivas y funcionales que interactúan de manera fluida con los usuarios. Mi conocimiento de PHP y SQL me capacita para construir sistemas dinámicos y bases de datos eficientes que respalden la funcionalidad del sitio web y las aplicaciones. Además, mi experiencia con diversos frameworks agiliza el proceso de desarrollo y garantiza la adhesión a las mejores prácticas de la industria.
+</a><br/>  <br/>  
+¡Me alegro de verte aquí!
+
+Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando con el desarrollo web. Mi dominio en tecnologías web  me ha permitido crear interfaces visuales atractivas y funcionales que interactúan de manera fluida con los usuarios. Mi conocimiento en lenguajes del front-end y back-end me capacita para construir sistemas dinámicos y bases de datos eficientes que respalden la funcionalidad del sitio web y las aplicaciones. Además, mi experiencia con diversos frameworks agiliza el proceso de desarrollo y garantiza la adhesión a las mejores prácticas de la industria.
 
 <br/>  
 
@@ -25,7 +26,7 @@ Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando co
 - 🔭 Actualmente me encuentro estudiando sobre las tecnologías actuales y en la búsqueda de nuevos proyectos y experiencias para poner en practica mis conocimientos  
   
 
-- 🌱 Estoy aprendiendo mucho mas de frameworks de javascript como lo son Angula y Ionic  
+- 🌱 Estoy aprendiendo mucho mas de frameworks de javascript como lo son Angular node y express  
   
 
 - ❓ Pregúntame sobre cualquier cosa relacionada con el desarrollo  
