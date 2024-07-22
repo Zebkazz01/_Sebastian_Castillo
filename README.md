@@ -1,20 +1,20 @@
 ## Hola 👋, Soy Sebastián Castillo!  
 
-<a href="https://dev.to/rishavanand" target="_blank">
+<a href="https://dev.to/sebastian_castillo_2bddbd" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Zebkazz" target="_blank">
+<a href="https://github.com/Zebkazz01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/sebastian-castillop" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Zebkazz01" target="_blank">
+<a href="https://www.facebook.com/Sebastian.Castillo.Zebkazz.14/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/Zebkazz01" target="_blank">
+<a href="https://instagram.com/zebkazz" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a><br>  
 ### ¡Me alegro de verte aquí!
 Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando con el desarrollo web. Mi dominio de HTML, CSS y JavaScript me ha permitido crear interfaces visuales atractivas y funcionales que interactúan de manera fluida con los usuarios. Mi conocimiento de PHP y SQL me capacita para construir sistemas dinámicos y bases de datos eficientes que respalden la funcionalidad del sitio web y las aplicaciones. Además, mi experiencia con diversos frameworks agiliza el proceso de desarrollo y garantiza la adhesión a las mejores prácticas de la industria.
 
