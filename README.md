@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/Sebastian.Castillo.Zebkazz.14/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/zebkazz" target="_blank">
+<a href="https://instagram.com/Zebkazz01" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a><br/>  <br/>  
 ¡Me alegro de verte aquí!
@@ -75,11 +75,11 @@ Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando co
 
 ## Estadisticas de Github   
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zebkazz01&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebkazz&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebkazz01&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -89,7 +89,7 @@ Mi experiencia abarca un amplio espectro de habilidades técnicas, comenzando co
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Zebkazz&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Zebkazz01&&style=flat-square)  
   
 
 <br/>  
